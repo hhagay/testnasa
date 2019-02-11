@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3591" started-at="2019-02-11T20:06:38Z" finished-at="2019-02-11T20:06:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3591" started-at="2019-02-11T20:06:38Z" finished-at="2019-02-11T20:06:42Z">
+      <class name="APITestingNASA.com.nasa.api.SearchGetRequests">
+        <test-method status="PASS" signature="Test_ID()[pri:0, instance:APITestingNASA.com.nasa.api.SearchGetRequests@3427b02d]" name="Test_ID" duration-ms="1977" started-at="2019-02-11T12:06:38Z" finished-at="2019-02-11T12:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_ID -->
+        <test-method status="PASS" signature="Test_Q()[pri:0, instance:APITestingNASA.com.nasa.api.SearchGetRequests@3427b02d]" name="Test_Q" duration-ms="1593" started-at="2019-02-11T12:06:40Z" finished-at="2019-02-11T12:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Q -->
+      </class> <!-- APITestingNASA.com.nasa.api.SearchGetRequests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
